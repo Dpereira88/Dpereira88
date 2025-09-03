@@ -37,6 +37,7 @@ I've built automation tools, user interfaces, and web-scraping scripts in Python
 ### Project Management & Documentation
 ![Jira](https://img.shields.io/badge/-Jira-0052CC?style=flat-square&logo=jira&logoColor=white)
 ![Confluence](https://img.shields.io/badge/-Confluence-172B4D?style=flat-square&logo=confluence&logoColor=white)
+![Notion](https://img.shields.io/badge/-Notion-000000?style=flat-square&logo=notion&logoColor=white)
 ![IBM RTC](https://img.shields.io/badge/-IBM%20RTC-052FAD?style=flat-square&logo=ibm&logoColor=white)
 ![Git](https://img.shields.io/badge/-Git-F05032?style=flat-square&logo=git&logoColor=white)
 
