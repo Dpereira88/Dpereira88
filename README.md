@@ -10,7 +10,6 @@ I've built automation tools, user interfaces, and web-scraping scripts in Python
 - 👯 I'm looking to collaborate on **Automation, Testing, and Cybersecurity projects**
 - 💬 Ask me about **Python automation, system testing, industrial control systems**
 - 📫 How to reach me: **diogompereira3@gmail.com**
-- ⚡ Fun fact: **I was also a Senior Team Coordinator at Ribeirão 1968 FC!**
 
 ## 🛠️ Technologies & Tools
 
